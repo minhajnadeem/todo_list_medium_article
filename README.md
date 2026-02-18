@@ -2,7 +2,7 @@
 
 A simple Flutter Todo app built to demonstrate **Provider** for state management. This project doubles as a learning resource: you can run the app, explore the code, and use this README as an article to understand the three core concepts — **ChangeNotifier**, **ChangeNotifierProvider**, and **Consumer**.
 
-**By [DevMinhaj](https://www.devminhaj.me)** · [www.devminhaj.me](https://www.devminhaj.me)
+**By [DevMinhaj](https://www.devminhaj.me)** · [www.devminhaj.me](https://www.devminhaj.me) · [Flutter starter guide (Medium)](https://medium.com/@minhaj.lib/flutter-starter-guide-for-absolute-beginners-435552eed1d3)
 
 ---
 
@@ -169,7 +169,10 @@ When you only need to **call** the provider (e.g. add or delete) without **liste
 
 ## About
 
-Built for learning and teaching Flutter state management with Provider. For more tutorials and projects, visit **[www.devminhaj.me](https://www.devminhaj.me)**.
+Built for learning and teaching Flutter state management with Provider.
+
+- **Website:** [www.devminhaj.me](https://www.devminhaj.me)
+- **Article:** [Flutter starter guide for absolute beginners (Medium)](https://medium.com/@minhaj.lib/flutter-starter-guide-for-absolute-beginners-435552eed1d3)
 
 ---
 
